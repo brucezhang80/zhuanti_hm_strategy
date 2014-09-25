@@ -3,7 +3,7 @@ zhuanti_hm_strategy
 
 我的专题：红棉上市（这是我职业生涯中做的第一个完整的静态页面）
 
-效果查看：http://gd.emoney.cn/zhuanti/hm_strategy/index.html
+此专题的效果查看：http://gd.emoney.cn/zhuanti/hm_strategy/index.html
 
 我的第二个专题请看：https://github.com/haua/zhuanti_tiny_times/
 
