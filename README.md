@@ -1,7 +1,7 @@
 zhuanti_hm_strategy
 ===================
 
-我的专题：红棉上市
+我的专题：红棉上市（这是我职业生涯中做的第一个完整的静态页面）
 
 效果查看：http://gd.emoney.cn/zhuanti/hm_strategy/index.html
 
